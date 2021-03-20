@@ -1,0 +1,7 @@
+C:\Users\datng\Desktop\Nguyen_Quoc_Dat-5951071013\Nguyen_Quoc_Dat-5951071013\obj\Debug\netcoreapp3.1\Nguyen_Quoc_Dat-5951071013.csprojAssemblyReference.cache
+C:\Users\datng\Desktop\Nguyen_Quoc_Dat-5951071013\Nguyen_Quoc_Dat-5951071013\obj\Debug\netcoreapp3.1\Nguyen_Quoc_Dat-5951071013.AssemblyInfoInputs.cache
+C:\Users\datng\Desktop\Nguyen_Quoc_Dat-5951071013\Nguyen_Quoc_Dat-5951071013\obj\Debug\netcoreapp3.1\Nguyen_Quoc_Dat-5951071013.AssemblyInfo.cs
+C:\Users\datng\Desktop\Nguyen_Quoc_Dat-5951071013\Nguyen_Quoc_Dat-5951071013\obj\Debug\netcoreapp3.1\Nguyen_Quoc_Dat-5951071013.csproj.CoreCompileInputs.cache
+C:\Users\datng\Desktop\Nguyen_Quoc_Dat-5951071013\Nguyen_Quoc_Dat-5951071013\obj\Debug\netcoreapp3.1\Nguyen_Quoc_Dat-5951071013.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\datng\Desktop\Nguyen_Quoc_Dat-5951071013\Nguyen_Quoc_Dat-5951071013\obj\Debug\netcoreapp3.1\Nguyen_Quoc_Dat-5951071013.RazorAssemblyInfo.cache
+C:\Users\datng\Desktop\Nguyen_Quoc_Dat-5951071013\Nguyen_Quoc_Dat-5951071013\obj\Debug\netcoreapp3.1\Nguyen_Quoc_Dat-5951071013.RazorAssemblyInfo.cs
